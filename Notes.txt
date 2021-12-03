@@ -1,0 +1,89 @@
+JDK - Java Development Kit v8
+JRE - Java Runtime env
+JVM - Java Vitural Machine
+
+JVM
+----------------
+Create
+Verify
+Excute
+Run
+
+JRE
+---------
+JVM + lib(javax,java.util) + instructions
+
+JDK
+----------------
+JVM + JRE
+
+
+
+JDK> JRE> JVM
+D > R > V
+
+Difference btw method & function?
+	if function a is inside a class it is called method
+
+
+main() -> program starts running
+
+Console -> is used to get outputs and give inputs
+
+
+Variables in Java
+---------------------------------------------------------------
+Variable is reference to some data
+
+Types of variables
+------------------
+1. Local - if a variable is inside a method and can be used only in that method.
+2. Instance - if a variable is inside a class but not a static variable
+3. Static - if a variable is inside a class but a static variable
+
+Data Types:
+-------------------------------------------
+1. Primitive(single) - true/false, 12,15.435,'a'
+
+	Boolean -> True/False
+	Numeric
+		Byte
+		Short
+		Integer(int)
+		Long
+		
+		float
+		double
+	Character -> 'a','t','g'
+
+2. Non-Primtive(multiple) - "my name is mounish",[1,2,3,4,5,67,78]
+
+	String
+	Array
+	Set
+	Map
+	Tuple
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

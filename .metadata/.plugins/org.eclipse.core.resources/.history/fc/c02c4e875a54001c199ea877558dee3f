@@ -1,0 +1,20 @@
+package dec3;
+
+public class Variables {
+	
+//	static int a = 10;
+
+	public static void main(String[] args) {
+		int b = 5;
+		add(b);
+
+	}
+
+	private static void add(int b) {
+		// TODO Auto-generated method stub
+		int a = 10;
+		System.out.println(a + b);
+		
+	}
+
+}
