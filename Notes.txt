@@ -47,23 +47,48 @@ Data Types:
 
 	Boolean -> True/False
 	Numeric
-		Byte
-		Short
-		Integer(int)
-		Long
+		Byte -> 2^7 -> -127 to 128
+		Short -> 2^15 -> -32,768 to 32,789
+		Integer(int) -> 2^31
+		Long -> 2^63
 		
-		float
-		double
+		float -> 32bit - 2^31
+		double -> 64bit - 2^63
 	Character -> 'a','t','g'
 
 2. Non-Primtive(multiple) - "my name is mounish",[1,2,3,4,5,67,78]
 
 	String
 	Array
-	Set
-	Map
-	Tuple
+	Collections
+
+Operators
+-------------------------------------------------------------------------
+1. Unary -> one variable
+	++,-- --> a++; -> a = a+1
+	a++2 -> a =a+2
+
+2. Arithmetic -> +,-,*,/,%
+
+3. Relation/ Conditinal ->    >,<,>=,<=
+		output -> boolean
+
+4. Logical ->  &&,||
+		output -> boolean
+	AND -> two conditions -> TT -> T else F
+	OR -> two conditions -> if one is T -> T else F(FFd)
+5. Assignment -> =,+=,-=,*=,/=
+
 	
+2)3(1 -> / -> quotient
+  2
+-------
+  1  -> % -> modulus -> remainder
+
+------------------------------------------------------------------------------------
+Control Statements:
+1. conditional -> this or that -> if statement
+2. loops -> For , While
 
 
 
@@ -79,11 +104,4 @@ Data Types:
 
 
 
-
-
-
-
-
-
-
-
+	
